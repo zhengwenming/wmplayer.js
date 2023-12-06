@@ -1,0 +1,26 @@
+{
+    "name": "wmplayer",
+    "title": "wmplayer.js",
+    "version": "0.0.1",
+    "description": "JavaScript library for h5 player",
+    "main": "wmplayer.js",
+    "files": ["wmplayer.js"],
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "wmplayer",
+      "player"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/zhengwenming/wmplayer.js"
+    },
+    "dependencies": {
+    },
+    "author": {
+      "name": "zhengwenming",
+      "email": "740747055@qq.com"
+    },
+    "license": "MIT"
+  }
